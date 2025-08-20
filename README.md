@@ -1,16 +1,78 @@
-<h1 align="center">Hey folks , I'm Vishal Mistry</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+# 👋 Hi, I'm Vishal Mistry
 
-- 🌱 I’m currently learning **Next Js, Docker, GraphQL**
+## Full Stack JavaScript Developer | Passionate Coder | Lifelong Learner
 
-- 💬 Ask me about **React Js, Tailwind CSS, Node JS, Next JS**
+Welcome to my GitHub profile! I'm a Full Stack JavaScript Developer with a keen interest in building dynamic, user-friendly web applications. My expertise spans both front-end and back-end technologies, allowing me to create seamless digital experiences.
 
-- 📫 How to reach me **vishal01mistry@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishal-01-mistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-01-mistry" height="30" width="40" /></a>
-</p>
+## 🧠 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I'm a dedicated developer who thrives at the intersection of technology and creativity. With a strong foundation in both front-end and back-end development, I aim to craft immersive and visually appealing digital experiences. I believe in the power of clean, efficient code and staying current with the latest web trends to deliver outstanding results.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Front-End
+
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries**: React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap 5, jQuery
+
+### Back-End
+
+- **Languages**: Node.js, PHP
+- **Databases**: MongoDB, MySQL, PostgreSQL, Prisma
+- **Tools**: Express.js, REST APIs, Git, GitHub, Visual Studio Code
+
+---
+
+## 💼 Education
+
+- **Master of Engineering in Computer Engineering**  
+  *Ahmedabad, Gujarat, India*  
+  *2023 – 2025*
+
+- **Bachelor of Engineering in Computer Engineering**  
+  *Gandhinagar, Gujarat, India*  
+  *2018 – 2022*
+
+- **PHP Web Developer**  
+  *Ahmedabad, Gujarat, India*  
+  *2022 – 2023*
+
+- **Web Developer Intern**  
+  *Ahmedabad, Gujarat, India*  
+  *2022*
+
+---
+
+## 🚀 Projects
+
+Here are some of the projects I've worked on:
+
+### 🍔 [Foodies - Restaurant Website](https://foodies-iota.vercel.app)
+
+A responsive food restaurant website built with React.js, Redux Toolkit, and Tailwind CSS.
+
+### 💬 [Chat Me - Real-Time Chat App](https://chat-me-flame.vercel.app)
+
+A real-time chat application developed using Next.js, Prisma, MongoDB, and Pusher.
+
+### 👗 [Trend Trove - E-commerce Clothing Store](https://trendtrove-ecommerce.vercel.app)
+
+An e-commerce platform for clothing, utilizing the MERN stack with PayPal payment integration.
+
+### 🗂️ [Boardify - Project & Task Management App](https://boardify-gamma.vercel.app)
+
+A task management application featuring drag-and-drop functionality, built with Next.js, React.js, and PostgreSQL.
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to new opportunities and collaborations. If you have a project in mind or want to discuss how I can contribute to your team, please don't hesitate to reach out.
+
+- [Portfolio](https://vishal-mistry.vercel.app)
+- [GitHub](https://github.com/Vishal01Dev)
+- [LinkedIn](https://www.linkedin.com/in/vishal-01-mistry/)
